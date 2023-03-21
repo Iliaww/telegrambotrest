@@ -1,0 +1,2 @@
+worker: python forbot.py
+
